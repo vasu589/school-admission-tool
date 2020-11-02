@@ -1,2 +1,2 @@
 # school-admission-tool
-Basic school admission tool
+Developed by vasudha
